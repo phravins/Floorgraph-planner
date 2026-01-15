@@ -1,4 +1,4 @@
-# 🏠 Rendero - AI Floor Plan Generator
+# Rendero - AI Floor Plan Generator
 
 ##  Overview
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18.3.1** - Modern UI framework with hooks
@@ -68,7 +68,7 @@
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this application, make sure you have the following installed:
 
@@ -81,7 +81,7 @@ Before running this application, make sure you have the following installed:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -152,7 +152,7 @@ npm start
 
 ---
 
-## 📖 Usage
+## Usage
 
 ### 1. Access the Application
 Open your browser and navigate to:
@@ -172,7 +172,7 @@ Open your browser and navigate to:
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Base URL: `http://localhost:3001`
 
@@ -207,7 +207,7 @@ Content-Type: application/json
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rendero-floorplan-generator/
@@ -238,7 +238,7 @@ rendero-floorplan-generator/
 
 ---
 
-## 🎨 Customization
+## customization
 
 ### Styling
 The application uses Tailwind CSS for styling. Customize the design by:
@@ -269,7 +269,7 @@ Modify database schema in `src/lib/db.ts` for additional features.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -289,7 +289,7 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
@@ -303,7 +303,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Stability AI** for providing powerful image generation capabilities
 - **React & TypeScript** communities for excellent documentation
